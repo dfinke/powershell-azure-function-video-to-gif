@@ -1,4 +1,4 @@
-# Powershell Azure Function Video To Gif
+# Powershell Azure Function Converts Video To Gif
 
 1. Clone this repo
 1. Use the `Deploy to Azure` button to provision the cloud resources needed.
@@ -11,5 +11,5 @@
 
 You should be ready to go, upload an `mp4` file to the blob storage and that should trigger the PowerShell `run.ps1` to convert the `mp4` into gif and store the gif in `D:\home\site\videos`.
 
-# Inspired by
+# Resources
 https://github.com/krishnaji/durable-function-video-to-gif
