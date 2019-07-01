@@ -1,5 +1,7 @@
 # Powershell Azure Function Converts Video To Gif
 
+![](demo.gif)
+
 1. Clone this repo
 1. Use the `Deploy to Azure` button to provision the cloud resources needed.
 [![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdfinke%2Fpowershell-azure-function-video-to-gif%2Fmaster%2Fdeploy.json)
